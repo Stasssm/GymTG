@@ -1,0 +1,879 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- From: file:/C:/Users/Stas/AndroidStudioProjects/Gym/app/build/exploded-aar/be.billington.calendar.recurrencepicker/library/1.1.0/res/values/arrays.xml -->
+    <eat-comment />
+
+    <string-array name="availability">
+        <item>Busy</item>
+        <item>Available</item>
+        <item>Tentative</item>
+    </string-array>
+
+    <integer-array name="availability_values" translatable="false">
+        <item>0</item>
+        <!-- Busy -->
+        <item>1</item>
+        <!-- Available -->
+        <item>2</item>
+        <!-- Tentative -->
+    </integer-array>
+
+    <string-array name="buttons_list">
+        <item>Day</item>
+        <item>Week</item>
+        <item>Month</item>
+        <item>Agenda</item>
+    </string-array>
+    <string-array name="change_response_labels">
+
+        <!-- The choice for responding to only one instance of a repeating event -->
+        <item>Only this event</item>
+        <!-- The choice for responding to all instances of a repeating event -->
+        <item>All events in the series</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Only this event</item>
+        <item>This and future events</item>
+        <item>All events</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>This &amp; future events</item>
+        <item>All events</item>
+    </string-array>
+
+    <integer-array name="delete_repeating_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </integer-array>
+    <!-- From: file:/C:/Users/Stas/AndroidStudioProjects/Gym/app/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string-array name="muscleList">
+        <item>shoulders</item>
+        <item>biceps</item>
+        <item>forearms</item>
+        <item>chest</item>
+        <item>abs</item>
+        <item>quads</item>
+        <item>neck</item>
+        <item>traps</item>
+        <item>triceps</item>
+        <item>lats</item>
+        <item>middleback</item>
+        <item>lowerback</item>
+        <item>glutes</item>
+        <item>hamstrings</item>
+        <item>calves</item>
+    </string-array>
+    <!-- From: file:/C:/Users/Stas/AndroidStudioProjects/Gym/app/build/exploded-aar/be.billington.calendar.recurrencepicker/library/1.1.0/res/values/arrays.xml -->
+    <eat-comment />
+
+    <string-array name="ordinal_labels">
+        <item>first</item>
+        <item>second</item>
+        <item>third</item>
+        <item>fourth</item>
+        <item>last</item>
+    </string-array>
+    <string-array name="preferences_skip_reminders_labels">
+
+        <!-- Default choice -->
+        <item>Only if declined</item>
+        <!-- Second option, for skipping reminders to events not yet responded to. -->
+        <item>If declined or not responded</item>
+    </string-array>
+    <string-array name="preferences_skip_reminders_values" translatable="false">
+        <item>declined</item>
+        <item>not_responded</item>
+    </string-array>
+    <string-array name="recurrence_freq">
+        <item>REPEAT DAILY</item>
+        <item>REPEAT WEEKLY</item>
+        <item>REPEAT MONTHLY</item>
+        <item>REPEAT YEARLY</item>
+    </string-array>
+    <string-array name="reminder_methods_labels">
+        <item>Notification</item>
+        <item>Email</item>
+        <item>SMS</item>
+        <item>Alarm</item>
+    </string-array>
+
+    <integer-array name="reminder_methods_values" translatable="false">
+        <item>1</item>
+        <!-- METHOD_ALERT -->
+        <item>2</item>
+        <!-- METHOD_EMAIL -->
+        <item>3</item>
+        <!-- METHOD_SMS -->
+        <item>4</item>
+        <!-- METHOD_ALARM -->
+    </integer-array>
+
+    <string-array name="reminder_minutes_labels">
+        <item>0 minutes</item>
+        <item>1 minute</item>
+        <item>5 minutes</item>
+        <item>10 minutes</item>
+        <item>15 minutes</item>
+        <item>20 minutes</item>
+        <item>25 minutes</item>
+        <item>30 minutes</item>
+        <item>45 minutes</item>
+        <item>1 hour</item>
+        <item>2 hours</item>
+        <item>3 hours</item>
+        <item>12 hours</item>
+        <item>24 hours</item>
+        <item>2 days</item>
+        <item>1 week</item>
+    </string-array>
+
+    <integer-array name="reminder_minutes_values" translatable="false">
+        <item>0</item>
+        <item>1</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+        <item>45</item>
+        <item>60</item>
+        <item>120</item>
+        <item>180</item>
+        <item>720</item>
+        <item>1440</item>
+        <item>2880</item>
+        <item>10080</item>
+    </integer-array>
+
+    <string-array name="repeat_by_nth_fri">
+        <item>on every first Friday</item>
+        <item>on every second Friday</item>
+        <item>on every third Friday</item>
+        <item>on every fourth Friday</item>
+        <item>on every last Friday</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>on every first Monday</item>
+        <item>on every second Monday</item>
+        <item>on every third Monday</item>
+        <item>on every fourth Monday</item>
+        <item>on every last Monday</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>on every first Saturday</item>
+        <item>on every second Saturday</item>
+        <item>on every third Saturday</item>
+        <item>on every fourth Saturday</item>
+        <item>on every last Saturday</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>on every first Sunday</item>
+        <item>on every second Sunday</item>
+        <item>on every third Sunday</item>
+        <item>on every fourth Sunday</item>
+        <item>on every last Sunday</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>on every first Thursday</item>
+        <item>on every second Thursday</item>
+        <item>on every third Thursday</item>
+        <item>on every fourth Thursday</item>
+        <item>on every last Thursday</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>on every first Tuesday</item>
+        <item>on every second Tuesday</item>
+        <item>on every third Tuesday</item>
+        <item>on every fourth Tuesday</item>
+        <item>on every last Tuesday</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>on every first Wednesday</item>
+        <item>on every second Wednesday</item>
+        <item>on every third Wednesday</item>
+        <item>on every fourth Wednesday</item>
+        <item>on every last Wednesday</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>No response</item>
+        <item>Yes</item>
+        <item>Maybe</item>
+        <item>No</item>
+    </string-array>
+    <string-array name="visibility">
+        <item>Default</item>
+        <item>Private</item>
+        <item>Public</item>
+    </string-array>
+    <!-- From: file:/C:/Users/Stas/AndroidStudioProjects/Gym/app/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string-array name="week_days">
+        <item>Понедельник</item>
+        <item>Вторник</item>
+        <item>Среда</item>
+        <item>Четверг</item>
+        <item>Пятница</item>
+        <item>Суббота</item>
+        <item>Воскресенье</item>
+    </string-array>
+    <string-array name="week_days_short">
+        <item>Пн</item>
+        <item>Вт</item>
+        <item>Ср</item>
+        <item>Чт</item>
+        <item>Пт</item>
+        <item>Сб</item>
+        <item>Вс</item>
+    </string-array>
+    <!-- From: file:/C:/Users/Stas/AndroidStudioProjects/Gym/app/build/exploded-aar/be.billington.calendar.recurrencepicker/library/1.1.0/res/values/colors.xml -->
+    <eat-comment />
+
+    <color name="agenda_day_bar_background_color">#FFFFFFFF</color>
+    <color name="agenda_day_item_text_color">#FF666666</color>
+    <color name="agenda_general_background_color">#FFEEEEEE</color>
+    <color name="agenda_item_declined_color">#66333333</color>
+    <color name="agenda_item_not_selected">#00000000</color>
+    <color name="agenda_item_standard_color">#FF333333</color>
+    <color name="agenda_item_where_declined_text_color">#66666666</color>
+    <color name="agenda_item_where_text_color">#FF666666</color>
+    <color name="agenda_list_separator_color">#FFBBBBBB</color>
+    <color name="agenda_past_days_bar_background_color">#FFDDDDDD</color>
+    <color name="agenda_past_present_separator_color">#FF333333</color>
+    <color name="agenda_selected_background_color">@android:color/holo_blue_dark</color>
+    <color name="agenda_selected_text_color">#FFFFFFFF</color>
+    <color name="alert_event_other">#FF999999</color>
+    <color name="alert_event_title">#FFFFFFFF</color>
+    <color name="alert_past_event">#8F999999</color>
+    <!-- From: file:/C:/Users/Stas/AndroidStudioProjects/Gym/app/build/exploded-aar/com.github.flavienlaurent.datetimepicker/library/0.0.1/res/values/values.xml -->
+    <eat-comment />
+
+    <color name="ampm_text_color">#8c8c8c</color>
+    <!-- From: file:/C:/Users/Stas/AndroidStudioProjects/Gym/app/build/exploded-aar/be.billington.calendar.recurrencepicker/library/1.1.0/res/values/colors.xml -->
+    <eat-comment />
+
+    <color name="appwidget_date">#ffEEEEEE</color>
+    <color name="appwidget_item_allday_color">#ffffffff</color>
+    <color name="appwidget_item_declined_color">#66333333</color>
+    <color name="appwidget_item_standard_color">#ff333333</color>
+    <color name="appwidget_month">#ffEEEEEE</color>
+    <color name="appwidget_no_events">#ffffffff</color>
+    <color name="appwidget_row_in_progress">#6633b5e5</color>
+    <color name="appwidget_title">#ffffffff</color>
+    <color name="appwidget_week">@android:color/white</color>
+    <color name="appwidget_when">#ffffffff</color>
+    <color name="appwidget_where">#ffffffff</color>
+    <color name="background_color">#fafafa</color>
+    <!-- From: file:/C:/Users/Stas/AndroidStudioProjects/Gym/app/build/exploded-aar/com.github.flavienlaurent.datetimepicker/library/0.0.1/res/values/values.xml -->
+    <eat-comment />
+
+    <color name="blue">#ff33b5e5</color>
+    <!-- From: file:/C:/Users/Stas/AndroidStudioProjects/Gym/app/build/exploded-aar/be.billington.calendar.recurrencepicker/library/1.1.0/res/values/colors.xml -->
+    <eat-comment />
+
+    <color name="calendar_ampm_label">#ff999999</color>
+    <color name="calendar_date_banner_background">#FFEEEEEE</color>
+    <color name="calendar_date_banner_text_color">#ff666666</color>
+    <color name="calendar_date_range_color">#80000000</color>
+    <color name="calendar_event_text_color">#ffFFFFFF</color>
+    <color name="calendar_future_bg_color">#ffffffff</color>
+    <color name="calendar_grid_area_selected">#e633b5e5</color>
+    <color name="calendar_grid_line_highlight_color">#ff707070</color>
+    <color name="calendar_grid_line_inner_horizontal_color">#FFCCCCCC</color>
+    <color name="calendar_grid_line_inner_vertical_color">#FFCCCCCC</color>
+    <!-- From: file:/C:/Users/Stas/AndroidStudioProjects/Gym/app/build/exploded-aar/com.github.flavienlaurent.datetimepicker/library/0.0.1/res/values/values.xml -->
+    <eat-comment />
+
+    <color name="calendar_header">#ff999999</color>
+    <!-- From: file:/C:/Users/Stas/AndroidStudioProjects/Gym/app/build/exploded-aar/be.billington.calendar.recurrencepicker/library/1.1.0/res/values/colors.xml -->
+    <eat-comment />
+
+    <color name="calendar_hidden">#ff808080</color>
+    <color name="calendar_hour_background">#ffEEEEEE</color>
+    <color name="calendar_hour_label">#ff666666</color>
+    <color name="calendar_owner_text_color">#777777</color>
+    <color name="calendar_secondary_hidden">#ff808080</color>
+    <color name="calendar_secondary_visible">#ff323232</color>
+    <color name="calendar_view_switch_menu_text_color">#FF666666</color>
+    <color name="calendar_view_switch_menu_text_color_light">#FF888888</color>
+    <color name="calendar_visible">#ff000000</color>
+    <!-- From: file:/C:/Users/Stas/AndroidStudioProjects/Gym/app/build/exploded-aar/com.github.flavienlaurent.datetimepicker/library/0.0.1/res/values/values.xml -->
+    <eat-comment />
+
+    <color name="circle_background">#fff2f2f2</color>
+    <!-- From: file:/C:/Users/Stas/AndroidStudioProjects/Gym/app/build/exploded-aar/be.billington.calendar.recurrencepicker/library/1.1.0/res/values/colors.xml -->
+    <eat-comment />
+
+    <color name="create_event_date_color">#FF000000</color>
+    <color name="create_event_divider_color">#FFDDDDDD</color>
+    <color name="create_event_more_details_color">#FF888888</color>
+    <!-- From: file:/C:/Users/Stas/AndroidStudioProjects/Gym/app/build/exploded-aar/com.github.flavienlaurent.datetimepicker/library/0.0.1/res/values/values.xml -->
+    <eat-comment />
+
+    <color name="darker_blue">#ff0099cc</color>
+    <color name="date_picker_text_normal">#ff999999</color>
+    <color name="date_picker_view_animator">#fff2f2f2</color>
+    <!-- From: file:/C:/Users/Stas/AndroidStudioProjects/Gym/app/build/exploded-aar/be.billington.calendar.recurrencepicker/library/1.1.0/res/values/colors.xml -->
+    <eat-comment />
+
+    <color name="day_clicked_background_color">#FF33B5E5</color>
+    <color name="day_event_clicked_background_color">#8033B5E5</color>
+    <color name="day_past_background_color">#FFDDDDDD</color>
+    <color name="done_text_color_disabled">#ffcccccc</color>
+    <color name="done_text_color_normal">#ff333333</color>
+    <color name="edit_event_separator">#FFDDDDDD</color>
+    <color name="event_background">#ffc3d9ff</color>
+    <color name="event_center">#ff6bd697</color>
+    <color name="event_info_body_color">#FF666666</color>
+    <color name="event_info_description_color">#FF666666</color>
+    <color name="event_info_headline_color">#FFFFFFFF</color>
+    <color name="event_info_headline_link_color">#FFFFFFFF</color>
+    <color name="event_info_headline_transparent_color">#B3FFFFFF</color>
+    <color name="event_info_label_background_color">#FFDDDDDD</color>
+    <color name="event_info_label_color">#FF999999</color>
+    <color name="event_info_organizer_color">#FF666666</color>
+    <!-- From: file:/C:/Users/Stas/AndroidStudioProjects/Gym/app/build/exploded-aar/com.github.flavienlaurent.datetimepicker/library/0.0.1/res/values/values.xml -->
+    <eat-comment />
+
+    <color name="line_background">#ffcccccc</color>
+    <!-- From: file:/C:/Users/Stas/AndroidStudioProjects/Gym/app/build/exploded-aar/be.billington.calendar.recurrencepicker/library/1.1.0/res/values/colors.xml -->
+    <eat-comment />
+
+    <color name="mini_month_bg_color">#FFFFFFFF</color>
+    <color name="mini_month_today_outline_color">#FF000000</color>
+    <color name="month_bgcolor">#FFE5E5E5</color>
+    <color name="month_day_names_color">#FF999999</color>
+    <color name="month_day_number">#FF333333</color>
+    <color name="month_day_number_other">#FF999999</color>
+    <color name="month_dna_conflict_time_color">#FF333333</color>
+    <color name="month_event_color">#FF333333</color>
+    <color name="month_event_extra_color">#FF666666</color>
+    <color name="month_event_extra_other_color">#4C999999</color>
+    <color name="month_event_other_color">#FF666666</color>
+    <color name="month_grid_lines">#ffCCCCCC</color>
+    <color name="month_mini_day_number">#FF000000</color>
+    <color name="month_other_bgcolor">#FFEEEEEE</color>
+    <color name="month_other_month_day_number">#ff939497</color>
+    <color name="month_saturday">#80333333</color>
+    <color name="month_selected_week_bgcolor">#FFDDDDDD</color>
+    <color name="month_sunday">#80333333</color>
+    <color name="month_today_bgcolor">#FFFFFFFF</color>
+    <color name="month_today_number">#FF333333</color>
+    <color name="month_week_num_color">#FF999999</color>
+    <color name="new_event_hint_text_color">#FFFFFFFF</color>
+    <!-- From: file:/C:/Users/Stas/AndroidStudioProjects/Gym/app/build/exploded-aar/com.github.flavienlaurent.datetimepicker/library/0.0.1/res/values/values.xml -->
+    <eat-comment />
+
+    <color name="numbers_text_color">#8c8c8c</color>
+    <!-- From: file:/C:/Users/Stas/AndroidStudioProjects/Gym/app/build/exploded-aar/be.billington.calendar.recurrencepicker/library/1.1.0/res/values/colors.xml -->
+    <eat-comment />
+
+    <color name="panel_text_foreground">#ffffffff</color>
+    <color name="pressed">#330066ff</color>
+    <color name="recurrence_bubble_text_normal">#ff737373</color>
+    <color name="recurrence_picker_background">#fff2f2f2</color>
+    <color name="selection">@android:color/holo_blue_light</color>
+    <color name="text_shadow_color">#4D000000</color>
+    <color name="today_highlight_color">#0033b5e5</color>
+    <!-- From: file:/C:/Users/Stas/AndroidStudioProjects/Gym/app/build/exploded-aar/com.github.flavienlaurent.datetimepicker/library/0.0.1/res/values/values.xml -->
+    <eat-comment />
+
+    <color name="transparent_black">#7F000000</color>
+    <!-- From: file:/C:/Users/Stas/AndroidStudioProjects/Gym/app/build/exploded-aar/be.billington.calendar.recurrencepicker/library/1.1.0/res/values/colors.xml -->
+    <eat-comment />
+
+    <color name="week_saturday">#80333333</color>
+    <color name="week_sunday">#80333333</color>
+    <!-- From: file:/C:/Users/Stas/AndroidStudioProjects/Gym/app/build/exploded-aar/com.github.flavienlaurent.datetimepicker/library/0.0.1/res/values/values.xml -->
+    <eat-comment />
+
+    <color name="white">#ffffffff</color>
+    <!-- From: file:/C:/Users/Stas/AndroidStudioProjects/Gym/app/build/exploded-aar/se.emilsjolander/stickylistheaders/2.5.0/res/values/values.xml -->
+    <eat-comment />
+
+    <declare-styleable name="StickyListHeadersListView">
+
+        <!-- View attributes -->
+        <attr name="android:clipToPadding" />
+        <attr name="android:scrollbars" />
+        <attr name="android:overScrollMode" />
+        <attr name="android:padding" />
+        <attr name="android:paddingLeft" />
+        <attr name="android:paddingTop" />
+        <attr name="android:paddingRight" />
+        <attr name="android:paddingBottom" />
+
+        <!-- ListView attributes -->
+        <attr name="android:fadingEdgeLength" />
+        <attr name="android:requiresFadingEdge" />
+        <attr name="android:cacheColorHint" />
+        <attr name="android:choiceMode" />
+        <attr name="android:drawSelectorOnTop" />
+        <attr name="android:fastScrollEnabled" />
+        <attr name="android:fastScrollAlwaysVisible" />
+        <attr name="android:listSelector" />
+        <attr name="android:scrollingCache" />
+        <attr name="android:scrollbarStyle" />
+        <attr name="android:divider" />
+        <attr name="android:dividerHeight" />
+        <attr name="android:transcriptMode" />
+
+        <!-- StickyListHeaders attributes -->
+        <attr name="hasStickyHeaders" format="boolean" />
+        <attr name="isDrawingListUnderStickyHeader" format="boolean" />
+    </declare-styleable>
+    <!-- From: file:/C:/Users/Stas/AndroidStudioProjects/Gym/app/src/main/res/values/dimens.xml -->
+    <eat-comment />
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/C:/Users/Stas/AndroidStudioProjects/Gym/app/build/exploded-aar/com.github.flavienlaurent.datetimepicker/library/0.0.1/res/values/values.xml -->
+    <eat-comment />
+
+    <dimen name="ampm_label_size">16sp</dimen>
+    <dimen name="ampm_left_padding">6dip</dimen>
+    <!-- From: file:/C:/Users/Stas/AndroidStudioProjects/Gym/app/src/main/res/values/dimens.xml -->
+    <eat-comment />
+
+    <dimen name="button_left_margin">3dp</dimen>
+    <!-- From: file:/C:/Users/Stas/AndroidStudioProjects/Gym/app/build/exploded-aar/com.github.flavienlaurent.datetimepicker/library/0.0.1/res/values/values.xml -->
+    <eat-comment />
+
+    <dimen name="date_picker_component_width">270dip</dimen>
+    <dimen name="date_picker_header_height">30dip</dimen>
+    <dimen name="date_picker_header_text_size">14dip</dimen>
+    <dimen name="date_picker_view_animator_height">270dip</dimen>
+    <dimen name="day_number_select_circle_radius">16dip</dimen>
+    <dimen name="day_number_size">16sp</dimen>
+    <dimen name="done_label_size">14sp</dimen>
+    <dimen name="extra_time_label_margin">-30dp</dimen>
+    <dimen name="header_height">96dip</dimen>
+    <!-- From: file:/C:/Users/Stas/AndroidStudioProjects/Gym/app/src/main/res/values/dimens.xml -->
+    <eat-comment />
+
+    <dimen name="margin">1dp</dimen>
+    <dimen name="margin_for_btn">4dp</dimen>
+    <!-- From: file:/C:/Users/Stas/AndroidStudioProjects/Gym/app/build/exploded-aar/com.github.flavienlaurent.datetimepicker/library/0.0.1/res/values/values.xml -->
+    <eat-comment />
+
+    <dimen name="minimum_margin_sides">48dip</dimen>
+    <dimen name="minimum_margin_top_bottom">24dip</dimen>
+    <dimen name="month_day_label_text_size">10sp</dimen>
+    <dimen name="month_label_size">16sp</dimen>
+    <dimen name="month_list_item_header_height">50dip</dimen>
+    <dimen name="month_select_circle_radius">45dip</dimen>
+    <dimen name="picker_dimen">270dip</dimen>
+    <!-- From: file:/C:/Users/Stas/AndroidStudioProjects/Gym/app/build/exploded-aar/be.billington.calendar.recurrencepicker/library/1.1.0/res/values/dimens.xml -->
+    <eat-comment />
+
+    <dimen name="recurrence_picker_height">340dp</dimen>
+    <dimen name="recurrence_picker_width">300dp</dimen>
+    <!-- From: file:/C:/Users/Stas/AndroidStudioProjects/Gym/app/build/exploded-aar/com.github.flavienlaurent.datetimepicker/library/0.0.1/res/values/values.xml -->
+    <eat-comment />
+
+    <dimen name="selected_calendar_layout_height">155dip</dimen>
+    <dimen name="selected_date_day_size">75dip</dimen>
+    <dimen name="selected_date_month_size">30dip</dimen>
+    <dimen name="selected_date_year_size">30dip</dimen>
+    <dimen name="separator_padding">4dip</dimen>
+    <!-- From: file:/C:/Users/Stas/AndroidStudioProjects/Gym/app/src/main/res/values/dimens.xml -->
+    <eat-comment />
+
+    <dimen name="text_button_size">18sp</dimen>
+    <!-- From: file:/C:/Users/Stas/AndroidStudioProjects/Gym/app/build/exploded-aar/com.github.flavienlaurent.datetimepicker/library/0.0.1/res/values/values.xml -->
+    <eat-comment />
+
+    <dimen name="time_label_size">60sp</dimen>
+    <dimen name="year_label_height">64dip</dimen>
+    <dimen name="year_label_text_size">22dip</dimen>
+
+    <item name="animator" type="id">false</item>
+    <item name="date_picker_day" type="id">false</item>
+    <item name="date_picker_header" type="id">false</item>
+    <item name="date_picker_month" type="id">false</item>
+    <item name="date_picker_month_and_day" type="id">false</item>
+    <item name="date_picker_year" type="id">false</item>
+    <item name="day_picker_selected_date_layout" type="id">false</item>
+    <item name="done" type="id">false</item>
+    <item name="month_text_view" type="id">false</item>
+    <!-- From: file:/C:/Users/Stas/AndroidStudioProjects/Gym/app/src/main/res/values/ids.xml -->
+    <eat-comment />
+
+    <item name="my_youtube_framelayout" type="id"/>
+    <!-- From: file:/C:/Users/Stas/AndroidStudioProjects/Gym/app/src/main/res/values/integers.xml -->
+    <eat-comment />
+
+    <integer name="column_num">1</integer>
+    <!-- From: file:/C:/Users/Stas/AndroidStudioProjects/Gym/app/build/exploded-aar/be.billington.calendar.recurrencepicker/library/1.1.0/res/values/strings.xml -->
+    <eat-comment />
+
+    <plurals name="daily">
+        <item quantity="one">Daily</item>
+        <item quantity="other">Every <ns1:g id="number">%d</ns1:g> days</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="one">; for one time</item>
+        <item quantity="other">; for <ns1:g id="number">%d</ns1:g> times</item>
+    </plurals>
+    <plurals name="recurrence_end_count">
+        <item quantity="one">For <ns1:g id="event_count">%d</ns1:g> event</item>
+        <item quantity="other">For <ns1:g id="event_count">%d</ns1:g> events</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+
+        <!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Every <ns1:g id="count">%d</ns1:g> day</item>
+        <!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Every <ns1:g id="count">%d</ns1:g> days</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+
+        <!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Every <ns1:g id="count">%d</ns1:g> month</item>
+        <!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Every <ns1:g id="count">%d</ns1:g> months</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+
+        <!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Every <ns1:g id="count">%d</ns1:g> week</item>
+        <!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Every <ns1:g id="count">%d</ns1:g> weeks</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+
+        <!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Every <ns1:g id="count">%d</ns1:g> year</item>
+        <!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Every <ns1:g id="count">%d</ns1:g> years</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="one">Weekly on <ns1:g id="days_of_week">%2$s</ns1:g></item>
+        <item quantity="other">Every <ns1:g id="number">%1$d</ns1:g> weeks on <ns1:g id="days_of_week">%2$s</ns1:g></item>
+    </plurals>
+    <!-- From: file:/C:/Users/Stas/AndroidStudioProjects/Gym/app/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="abs">Пресс</string>
+    <!-- From: file:/C:/Users/Stas/AndroidStudioProjects/Gym/app/build/exploded-aar/be.billington.calendar.recurrencepicker/library/1.1.0/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="acessibility_recurrence_choose_end_date_description">change end date</string>
+    <!-- From: file:/C:/Users/Stas/AndroidStudioProjects/Gym/app/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="action_settings">Settings</string>
+    <string name="add">Добавить</string>
+    <string name="add_title">Добавьте упражнение</string>
+    <string name="additional_help">Доп. возможности</string>
+    <!-- From: file:/C:/Users/Stas/AndroidStudioProjects/Gym/app/build/exploded-aar/com.github.flavienlaurent.datetimepicker/library/0.0.1/res/values/values.xml -->
+    <eat-comment />
+
+    <item name="ampm_circle_radius_multiplier" format="float" type="string">0.19</item>
+    <!-- From: file:/C:/Users/Stas/AndroidStudioProjects/Gym/app/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="app_name">Gym</string>
+    <string name="biceps">Бицепс</string>
+    <string name="calves">Икры</string>
+    <string name="cancel">Отмена</string>
+    <string name="chest">Грудь</string>
+    <string name="choose_days">Выбрать тренировочные дни</string>
+    <!-- From: file:/C:/Users/Stas/AndroidStudioProjects/Gym/app/build/exploded-aar/com.github.flavienlaurent.datetimepicker/library/0.0.1/res/values/values.xml -->
+    <eat-comment />
+
+    <item name="circle_radius_multiplier" format="float" type="string">0.82</item>
+    <item name="circle_radius_multiplier_24HourMode" format="float" type="string">0.85</item>
+    <!-- From: file:/C:/Users/Stas/AndroidStudioProjects/Gym/app/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="confirm_delete_message">Вы уверены что хотите удалить текущую программу тренировок?</string>
+    <!-- From: file:/C:/Users/Stas/AndroidStudioProjects/Gym/app/build/exploded-aar/com.github.flavienlaurent.datetimepicker/library/0.0.1/res/values/values.xml -->
+    <eat-comment />
+
+    <string name="day_of_week_label_typeface" translatable="false">sans-serif</string>
+    <string name="day_picker_description">Month grid of days</string>
+    <!-- From: file:/C:/Users/Stas/AndroidStudioProjects/Gym/app/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="delete_all">Удалить</string>
+    <string name="delete_record">Удалить запись</string>
+    <!-- From: file:/C:/Users/Stas/AndroidStudioProjects/Gym/app/build/exploded-aar/com.github.flavienlaurent.datetimepicker/library/0.0.1/res/values/values.xml -->
+    <eat-comment />
+
+    <string name="deleted_key"><ns1:g id="key" example="4">%1$s</ns1:g> deleted</string>
+    <!-- From: file:/C:/Users/Stas/AndroidStudioProjects/Gym/app/build/exploded-aar/be.billington.calendar.recurrencepicker/library/1.1.0/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="dismiss_all_label">"Dismiss all"</string>
+    <string name="does_not_repeat">One-time event</string>
+    <!-- From: file:/C:/Users/Stas/AndroidStudioProjects/Gym/app/build/exploded-aar/com.github.flavienlaurent.datetimepicker/library/0.0.1/res/values/values.xml -->
+    <eat-comment />
+
+    <string name="done_label">Done</string>
+    <!-- From: file:/C:/Users/Stas/AndroidStudioProjects/Gym/app/build/exploded-aar/be.billington.calendar.recurrencepicker/library/1.1.0/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="email_guests_label">Email guests</string>
+    <string name="email_organizer_label">Email organizer</string>
+    <string name="email_picker_label">Email with</string>
+    <string name="email_subject_prefix" translatable="false">Re:\u0020</string>
+    <string name="endByDate">; until <ns1:g id="date">%s</ns1:g></string>
+    <!-- From: file:/C:/Users/Stas/AndroidStudioProjects/Gym/app/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="error_player">There was an error initializing the YouTubePlayer (%1$s)</string>
+    <string name="error_thumbnail_view">There was an error initializing the YouTubeThumbnailView (%1$s)</string>
+    <!-- From: file:/C:/Users/Stas/AndroidStudioProjects/Gym/app/build/exploded-aar/be.billington.calendar.recurrencepicker/library/1.1.0/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="every_weekday">"Every weekday (Mon\u2013Fri)"</string>
+    <!-- From: file:/C:/Users/Stas/AndroidStudioProjects/Gym/app/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="ex_in_one_quant">Количество повторов :</string>
+    <string name="ex_name">Название упражнения</string>
+    <string name="ex_quant">Количество подходов :  </string>
+    <string name="forearms">Предплечья</string>
+    <string name="glutes">Ягодицы</string>
+    <string name="hamstrings">Бедра</string>
+    <string name="hello_world">Hello world!</string>
+    <!-- From: file:/C:/Users/Stas/AndroidStudioProjects/Gym/app/build/exploded-aar/com.github.flavienlaurent.datetimepicker/library/0.0.1/res/values/values.xml -->
+    <eat-comment />
+
+    <string name="hour_picker_description">Hours circular slider</string>
+    <string name="item_is_selected">%1$s selected</string>
+    <!-- From: file:/C:/Users/Stas/AndroidStudioProjects/Gym/app/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="lats">Широчайшие</string>
+    <string name="lowerback">Нижняя часть спины</string>
+    <string name="middleback">Средняя часть спины</string>
+    <!-- From: file:/C:/Users/Stas/AndroidStudioProjects/Gym/app/build/exploded-aar/com.github.flavienlaurent.datetimepicker/library/0.0.1/res/values/values.xml -->
+    <eat-comment />
+
+    <string name="minute_picker_description">Minutes circular slider</string>
+    <!-- From: file:/C:/Users/Stas/AndroidStudioProjects/Gym/app/build/exploded-aar/be.billington.calendar.recurrencepicker/library/1.1.0/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="monthly">Monthly</string>
+    <string name="monthly_on_day">"Monthly (on day <ns1:g id="day_of_month">%s</ns1:g>)"</string>
+    <!-- From: file:/C:/Users/Stas/AndroidStudioProjects/Gym/app/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="muscinf">О мышцах!</string>
+    <string name="neck">Шея</string>
+    <string name="not_chosen">Сначала выбирите дни тренировки</string>
+    <!-- From: file:/C:/Users/Stas/AndroidStudioProjects/Gym/app/build/exploded-aar/com.github.flavienlaurent.datetimepicker/library/0.0.1/res/values/values.xml -->
+    <eat-comment />
+
+    <item name="numbers_radius_multiplier_inner" format="float" type="string">0.60</item>
+    <item name="numbers_radius_multiplier_normal" format="float" type="string">0.81</item>
+    <item name="numbers_radius_multiplier_outer" format="float" type="string">0.83</item>
+    <!-- From: file:/C:/Users/Stas/AndroidStudioProjects/Gym/app/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="play">play</string>
+    <string name="quads">Квадрицепсы</string>
+    <!-- From: file:/C:/Users/Stas/AndroidStudioProjects/Gym/app/build/exploded-aar/com.github.flavienlaurent.datetimepicker/library/0.0.1/res/values/values.xml -->
+    <eat-comment />
+
+    <string name="radial_numbers_typeface" translatable="false">sans-serif</string>
+    <!-- From: file:/C:/Users/Stas/AndroidStudioProjects/Gym/app/build/exploded-aar/be.billington.calendar.recurrencepicker/library/1.1.0/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="recurrence_dialog_title">Repeat</string>
+    <string name="recurrence_dialog_title_never">Never repeats</string>
+    <string name="recurrence_end_continously">Forever</string>
+    <string name="recurrence_end_count_label">For a number of events</string>
+    <string name="recurrence_end_date">Until <ns1:g id="date">%s</ns1:g></string>
+    <string name="recurrence_end_date_label">Until a date</string>
+    <string name="recurrence_month_pattern_by_day">on the same day each month</string>
+    <!-- From: file:/C:/Users/Stas/AndroidStudioProjects/Gym/app/build/exploded-aar/com.github.flavienlaurent.datetimepicker/library/0.0.1/res/values/values.xml -->
+    <eat-comment />
+
+    <string name="sans_serif" translatable="false">sans-serif</string>
+    <!-- From: file:/C:/Users/Stas/AndroidStudioProjects/Gym/app/build/exploded-aar/be.billington.calendar.recurrencepicker/library/1.1.0/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="save_label">Done</string>
+    <!-- From: file:/C:/Users/Stas/AndroidStudioProjects/Gym/app/build/exploded-aar/com.github.flavienlaurent.datetimepicker/library/0.0.1/res/values/values.xml -->
+    <eat-comment />
+
+    <string name="select_day">Select month and day</string>
+    <string name="select_hours">Select hours</string>
+    <string name="select_minutes">Select minutes</string>
+    <string name="select_year">Select year</string>
+
+    <item name="selection_radius_multiplier" format="float" type="string">0.16</item>
+    <!-- From: file:/C:/Users/Stas/AndroidStudioProjects/Gym/app/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="shoulders">Плечи</string>
+    <!-- From: file:/C:/Users/Stas/AndroidStudioProjects/Gym/app/build/exploded-aar/be.billington.calendar.recurrencepicker/library/1.1.0/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="snooze_all_label">"Snooze all"</string>
+    <string name="snooze_label">"Snooze"</string>
+    <!-- From: file:/C:/Users/Stas/AndroidStudioProjects/Gym/app/build/exploded-aar/com.github.flavienlaurent.datetimepicker/library/0.0.1/res/values/values.xml -->
+    <eat-comment />
+
+    <item name="text_size_multiplier_inner" format="float" type="string">0.14</item>
+    <item name="text_size_multiplier_normal" format="float" type="string">0.17</item>
+    <item name="text_size_multiplier_outer" format="float" type="string">0.11</item>
+
+    <string name="time_placeholder" translatable="false">--</string>
+    <string name="time_separator" translatable="false">:</string>
+    <!-- From: file:/C:/Users/Stas/AndroidStudioProjects/Gym/app/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="title_activity_train">Дневник тренировок</string>
+    <string name="train_video">Посмотреть тренировки</string>
+    <string name="traps">Трапеции</string>
+    <string name="triceps">Трицепс</string>
+    <!-- From: file:/C:/Users/Stas/AndroidStudioProjects/Gym/app/build/exploded-aar/com.github.flavienlaurent.datetimepicker/library/0.0.1/res/values/values.xml -->
+    <eat-comment />
+
+    <string name="year_picker_description">Year list</string>
+    <!-- From: file:/C:/Users/Stas/AndroidStudioProjects/Gym/app/build/exploded-aar/be.billington.calendar.recurrencepicker/library/1.1.0/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="yearly">"Yearly (on <ns1:g id="dates">%s</ns1:g>)"</string>
+    <string name="yearly_plain">Yearly</string>
+    <!-- From: file:/C:/Users/Stas/AndroidStudioProjects/Gym/app/build/exploded-aar/com.github.flavienlaurent.datetimepicker/library/0.0.1/res/values/values.xml -->
+    <eat-comment />
+
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <!-- From: file:/C:/Users/Stas/AndroidStudioProjects/Gym/app/build/exploded-aar/be.billington.calendar.recurrencepicker/library/1.1.0/res/values/styles.xml -->
+    <eat-comment />
+
+    <style name="RecurrenceDayOfWeekStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">4dip</item>
+        <item name="android:layout_marginBottom">4dip</item>
+        <item name="android:layout_marginLeft">8dip</item>
+        <item name="android:layout_marginRight">8dip</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:textColor">@color/recurrence_bubble_text_color</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:background">@drawable/recurrence_bubble_fill</item>
+        <item name="android:paddingLeft">4dp</item>
+        <item name="android:paddingRight">4dp</item>
+        <item name="android:paddingTop">4dp</item>
+        <item name="android:paddingBottom">4dp</item>
+    </style>
+
+    <style name="TextAppearance" parent="android:TextAppearance" />
+
+    <style name="TextAppearance.EditEvent_Label">
+        <item name="android:textAppearance">?android:attr/textAppearanceSmall</item>
+        <item name="android:minHeight">48dip</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_marginLeft">16dip</item>
+        <item name="android:layout_marginRight">-16dip</item>
+        <item name="android:paddingLeft">8dip</item>
+        <item name="android:paddingRight">8dip</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:layout_gravity">top|left</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">#FFAAAAAA</item>
+    </style>
+
+    <style name="TextAppearance.EditEvent_Spinner" parent="android:style/Widget.Holo.Light.Spinner">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">#FF333333</item>
+        <item name="android:layout_marginRight">12dp</item>
+        <item name="android:layout_marginLeft">12dp</item>
+    </style>
+
+    <style name="TextAppearance.EditEvent_SpinnerButton" parent="TextAppearance.EditEvent_Spinner">
+        <item name="android:paddingLeft">12dp</item>
+        <item name="android:paddingRight">12dp</item>
+    </style>
+
+    <style name="TextAppearance.RecurrencePickerStyle">
+        <item name="android:textSize">15sp</item>
+    </style>
+
+    <style name="TextAppearance.Recurrence_Button" parent="TextAppearance.EditEvent_Label">
+        <item name="android:textColor">#FF000000</item>
+    </style>
+
+    <style name="TextAppearance.Recurrence_SpinnerButton" parent="android:style/Widget.Holo.Light.Spinner" />
+    <!-- From: file:/C:/Users/Stas/AndroidStudioProjects/Gym/app/src/main/res/values/themes.xml -->
+    <eat-comment />
+
+    <style name="Theme.TranslucentActionBar" parent="@android:style/Theme.Holo.Light.DarkActionBar">
+        <item name="android:actionBarStyle">@style/Widget.ActionBar</item>
+    </style>
+
+    <style name="Theme.TranslucentActionBar.ActionBar" />
+
+    <style name="Theme.TranslucentActionBar.ActionBar.Overlay">
+        <item name="android:actionBarStyle">@style/Widget.ActionBar.Transparent</item>
+        <item name="android:windowActionBarOverlay">true</item>
+    </style>
+    <!-- From: file:/C:/Users/Stas/AndroidStudioProjects/Gym/app/src/main/res/values/styles.xml -->
+    <eat-comment />
+
+    <style name="Widget.ActionBar" parent="@android:style/Widget.Holo.Light.ActionBar.Solid.Inverse">
+        <item name="android:background">@drawable/ab_background</item>
+    </style>
+
+    <style name="Widget.ActionBar.Transparent">
+        <item name="android:background">@android:color/transparent</item>
+    </style>
+    <!-- From: file:/C:/Users/Stas/AndroidStudioProjects/Gym/app/build/exploded-aar/com.github.flavienlaurent.datetimepicker/library/0.0.1/res/values/values.xml -->
+    <eat-comment />
+
+    <style name="ampm_label">
+        <item name="android:textSize">@dimen/ampm_label_size</item>
+        <item name="android:textColor">@color/ampm_text_color</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="day_of_week_label_condensed" />
+    <!-- From: file:/C:/Users/Stas/AndroidStudioProjects/Gym/app/src/main/res/values/styles.xml -->
+    <eat-comment />
+
+    <style name="muscle_button_style">
+        <item name="android:background">@null</item>
+        <item name="android:gravity">left|center_vertical</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:textSize">@dimen/text_button_size</item>
+    </style>
+
+    <style name="muscle_button_style_right">
+        <item name="android:background">@null</item>
+        <item name="android:gravity">right|center_vertical</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:textSize">@dimen/text_button_size</item>
+    </style>
+    <!-- From: file:/C:/Users/Stas/AndroidStudioProjects/Gym/app/build/exploded-aar/com.github.flavienlaurent.datetimepicker/library/0.0.1/res/values/values.xml -->
+    <eat-comment />
+
+    <style name="time_label">
+        <item name="android:textSize">@dimen/time_label_size</item>
+        <item name="android:textColor">@color/numbers_text_color</item>
+    </style>
+
+</resources>

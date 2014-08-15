@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- From: file:/C:/Users/Stas/AndroidStudioProjects/Gym/app/build/exploded-aar/be.billington.calendar.recurrencepicker/library/1.1.0/res/values-fi/arrays.xml -->
+    <eat-comment />
+
+    <string-array name="availability">
+        <item msgid="454869065893453189">"Varattu"</item>
+        <item msgid="6228387173725732140">"Tavoitettavissa"</item>
+        <item msgid="2064426942462573474">"Alustava"</item>
+    </string-array>
+    <string-array name="buttons_list">
+        <item msgid="5917946202321434335">"Päivä"</item>
+        <item msgid="6248480754959562740">"Viikko"</item>
+        <item msgid="4298472806133153766">"Kuukausi"</item>
+        <item msgid="5033084974413793845">"Tapahtumat"</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item msgid="3466644709343519437">"Vain tämä tapahtuma"</item>
+        <item msgid="140670561403965380">"Kaikki toistokerrat"</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item msgid="4208432367651646938">"Vain tämä tapahtuma"</item>
+        <item msgid="1536401639805370405">"Tämä ja tulevat tapahtumat"</item>
+        <item msgid="7833229563617435430">"Kaikki tapahtumat"</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item msgid="1341910309321756150">"Tämä ja tulevat tapahtumat"</item>
+        <item msgid="6315440193748139854">"Kaikki tapahtumat"</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item msgid="2693927956303125332">"ensimmäinen"</item>
+        <item msgid="5631923029483854900">"sekunti"</item>
+        <item msgid="148935502975250973">"kolmas"</item>
+        <item msgid="5124200797326669172">"neljäs"</item>
+        <item msgid="7564374178324652137">"viimeinen"</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item msgid="7495163916242649023">"Ei mitään"</item>
+        <item msgid="5883344836499335043">"0 minuuttia"</item>
+        <item msgid="4354350447805231188">"1 minuutti"</item>
+        <item msgid="265674592625309858">"5 minuuttia"</item>
+        <item msgid="8011089417728419666">"10 minuuttia"</item>
+        <item msgid="6177098581805412986">"15 minuuttia"</item>
+        <item msgid="356346660503078923">"20 minuuttia"</item>
+        <item msgid="992592434377054063">"25 minuuttia"</item>
+        <item msgid="9191353668596201944">"30 minuuttia"</item>
+        <item msgid="1192985682962908244">"45 minuuttia"</item>
+        <item msgid="1694315499429259938">"1 tunti"</item>
+        <item msgid="8281019320591769635">"2 tuntia"</item>
+        <item msgid="2062931719019287773">"3 tuntia"</item>
+        <item msgid="4086495711621133006">"12 tuntia"</item>
+        <item msgid="3172669681920709561">"24 tuntia"</item>
+        <item msgid="5557836606782821910">"2 päivää"</item>
+        <item msgid="8336577387266744930">"1 viikko"</item>
+    </string-array>
+    <string-array name="preferences_skip_reminders_labels">
+        <item msgid="2285927842308686988">"Vain jos kieltäydyn"</item>
+        <item msgid="6367412240524984286">"Jos kieltäydyn tai en vastaa"</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item msgid="986150274035512339">"Oletussijainti"</item>
+        <item msgid="134027225275475280">"lauantai"</item>
+        <item msgid="95029346069903091">"sunnuntai"</item>
+        <item msgid="5840983116375063739">"maanantai"</item>
+    </string-array>
+    <string-array name="recurrence_freq">
+        <item msgid="3388478383574917007">"TOISTA PÄIVITTÄIN"</item>
+        <item msgid="6300824484048337842">"TOISTA VIIKOITTAIN"</item>
+        <item msgid="189361731610816256">"TOISTA KUUKAUSITTAIN"</item>
+        <item msgid="8714177874112569158">"TOISTA VUOSITTAIN"</item>
+    </string-array>
+    <string-array name="reminder_methods_labels">
+        <item msgid="5172236776878811487">"Ilmoitus"</item>
+        <item msgid="1751151680520784746">"Sähköposti"</item>
+        <item msgid="2658001219380695677">"Tekstiviesti"</item>
+        <item msgid="7926918288165444873">"Hälytys"</item>
+    </string-array>
+    <string-array name="reminder_minutes_labels">
+        <item msgid="2416970002377237011">"0 minuuttia"</item>
+        <item msgid="6681865010714743948">"1 minuutti"</item>
+        <item msgid="2327505114623595779">"5 minuuttia"</item>
+        <item msgid="1657410063332547113">"10 minuuttia"</item>
+        <item msgid="366087535181197780">"15 minuuttia"</item>
+        <item msgid="6252612791145061929">"20 minuuttia"</item>
+        <item msgid="7896694531989090700">"25 minuuttia"</item>
+        <item msgid="8754510169374808607">"30 minuuttia"</item>
+        <item msgid="3113380274218454394">"45 minuuttia"</item>
+        <item msgid="8546646645868526283">"1 tunti"</item>
+        <item msgid="6467845211024768872">"2 tuntia"</item>
+        <item msgid="8201677619511076575">"3 tuntia"</item>
+        <item msgid="7172504281650128893">"12 tuntia"</item>
+        <item msgid="9114286702181482496">"24 tuntia"</item>
+        <item msgid="3107009344872997366">"2 päivää"</item>
+        <item msgid="6135563708172153696">"1 viikko"</item>
+    </string-array>
+    <string-array name="repeat_by_nth_fri">
+        <item msgid="6534500380525126157">"kuukauden 1. perjantai"</item>
+        <item msgid="1935608297230506940">"kuukauden 2. perjantai"</item>
+        <item msgid="4061877662049317599">"kuukauden 3. perjantai"</item>
+        <item msgid="6856646749131820614">"kuukauden 4. perjantai"</item>
+        <item msgid="6533513913914859794">"kuukauden viimeinen perjantai"</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item msgid="7539974918997689048">"kuukauden 1. maanantai"</item>
+        <item msgid="4484275849072423978">"kuukauden 2. maanantai"</item>
+        <item msgid="8956169860824371383">"kuukauden 3. maanantai"</item>
+        <item msgid="6924403357659569326">"kuukauden 4. maanantai"</item>
+        <item msgid="1379608815263472161">"kuukauden viimeinen maanantai"</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item msgid="3556369572649948699">"kuukauden 1. lauantai"</item>
+        <item msgid="9130198690512925355">"kuukauden 2. lauantai"</item>
+        <item msgid="4525736070844032405">"kuukauden 3. lauantai"</item>
+        <item msgid="422053689531707709">"kuukauden 4. lauantai"</item>
+        <item msgid="5499975799312474425">"kuukauden viimeinen lauantai"</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item msgid="143841313172233420">"kuukauden 1. sunnuntai"</item>
+        <item msgid="2557379346106451363">"kuukauden 2. sunnuntai"</item>
+        <item msgid="7622144489915654132">"kuukauden 3. sunnuntai"</item>
+        <item msgid="527152448137686021">"kuukauden 4. sunnuntai"</item>
+        <item msgid="5057483608824759350">"kuukauden viimeinen sunnuntai"</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item msgid="920673677566009313">"kuukauden 1. torstai"</item>
+        <item msgid="4857419136007543270">"kuukauden 2. torstai"</item>
+        <item msgid="222044587450564839">"kuukauden 3. torstai"</item>
+        <item msgid="6197927556533030945">"kuukauden 4. torstai"</item>
+        <item msgid="1023326923033436905">"kuukauden viimeinen torstai"</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item msgid="8690802834039790777">"kuukauden 1. tiistai"</item>
+        <item msgid="9063613547307760928">"kuukauden 2. tiistai"</item>
+        <item msgid="6688603328729208168">"kuukauden 3. tiistai"</item>
+        <item msgid="6695206006961533357">"kuukauden 4. tiistai"</item>
+        <item msgid="8619069174889809914">"kuukauden viimeinen tiistai"</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item msgid="3233850232075584386">"kuukauden 1. keskiviikko"</item>
+        <item msgid="5059722045367799217">"kuukauden 2. keskiviikko"</item>
+        <item msgid="7986246648229272275">"kuukauden 3. keskiviikko"</item>
+        <item msgid="9068566169348980801">"kuukauden 4. keskiviikko"</item>
+        <item msgid="7976866743069062134">"kuukauden viim. keskiviikko"</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item msgid="5605392595848194997">"Ei vastausta"</item>
+        <item msgid="3724434080904437698">"Kyllä"</item>
+        <item msgid="8854145743148992583">"Ehkä"</item>
+        <item msgid="6174292185978948873">"Ei"</item>
+    </string-array>
+    <string-array name="visibility">
+        <item msgid="3035788428581513163">"Oletus"</item>
+        <item msgid="5200216103966973369">"Yksityinen"</item>
+        <item msgid="9182342638433672664">"Julkinen"</item>
+    </string-array>
+    <!-- From: file:/C:/Users/Stas/AndroidStudioProjects/Gym/app/build/exploded-aar/be.billington.calendar.recurrencepicker/library/1.1.0/res/values-fi/strings.xml -->
+    <eat-comment />
+
+    <plurals name="recurrence_end_count">
+        <item msgid="1400782968090516215" quantity="one">"<ns1:g id="EVENT_COUNT">%d</ns1:g> tapahtuman ajan"</item>
+        <item msgid="8779598489398048259" quantity="other">"<ns1:g id="EVENT_COUNT">%d</ns1:g> tapahtuman ajan"</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item msgid="1205422710088692631" quantity="one">"<ns1:g id="COUNT">%d</ns1:g> päivän välein"</item>
+        <item msgid="707566499994398250" quantity="other">"<ns1:g id="COUNT">%d</ns1:g> päivän välein"</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item msgid="4768178401603139718" quantity="one">"<ns1:g id="COUNT">%d</ns1:g> kuukauden välein"</item>
+        <item msgid="5419723710346646523" quantity="other">"<ns1:g id="COUNT">%d</ns1:g> kuukauden välein"</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item msgid="4948681635464488351" quantity="one">"<ns1:g id="COUNT">%d</ns1:g> viikon välein"</item>
+        <item msgid="7094801039989237061" quantity="other">"<ns1:g id="COUNT">%d</ns1:g> viikon välein"</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item msgid="5819562634008179102" quantity="one">"<ns1:g id="COUNT">%d</ns1:g> vuoden välein"</item>
+        <item msgid="5678653649746562060" quantity="other">"<ns1:g id="COUNT">%d</ns1:g> vuoden välein"</item>
+    </plurals>
+
+    <string name="acessibility_recurrence_choose_end_date_description" msgid="5899029840837836711">"muuta lopetuspäivää"</string>
+    <!-- From: file:/C:/Users/Stas/AndroidStudioProjects/Gym/app/build/exploded-aar/com.github.flavienlaurent.datetimepicker/library/0.0.1/res/values-fi/values.xml -->
+    <eat-comment />
+
+    <string name="day_picker_description" msgid="3968620852217927702">"Päiväruudukko kuukausittain"</string>
+    <string name="deleted_key" msgid="6908431551612331381">"<ns1:g id="KEY">%1$s</ns1:g> poistettiin"</string>
+    <string name="done_label" msgid="7007948707597430919">"Valmis"</string>
+    <!-- From: file:/C:/Users/Stas/AndroidStudioProjects/Gym/app/build/exploded-aar/be.billington.calendar.recurrencepicker/library/1.1.0/res/values-fi/strings.xml -->
+    <eat-comment />
+
+    <string name="email_picker_label" msgid="4808253965057791781">"Sähköposti ja"</string>
+    <!-- From: file:/C:/Users/Stas/AndroidStudioProjects/Gym/app/build/exploded-aar/com.github.flavienlaurent.datetimepicker/library/0.0.1/res/values-fi/values.xml -->
+    <eat-comment />
+
+    <string name="hour_picker_description" msgid="7586639618712934060">"Tuntien ympyränmuotoinen liukusäädin"</string>
+    <string name="item_is_selected" msgid="2674929164900463786">"<ns1:g id="ITEM">%1$s</ns1:g> on valittu"</string>
+    <string name="minute_picker_description" msgid="6024811202872705251">"Minuuttien ympyränmuotoinen liukusäädin"</string>
+    <!-- From: file:/C:/Users/Stas/AndroidStudioProjects/Gym/app/build/exploded-aar/be.billington.calendar.recurrencepicker/library/1.1.0/res/values-fi/strings.xml -->
+    <eat-comment />
+
+    <string name="recurrence_dialog_title" msgid="8093909645557717483">"Toisto"</string>
+    <string name="recurrence_dialog_title_never" msgid="2679396029776590130">"Ei toistu"</string>
+    <string name="recurrence_end_continously" msgid="6898950241634912991">"Ikuisesti"</string>
+    <string name="recurrence_end_count_label" msgid="1233883668293087977">"Useita kertoja"</string>
+    <string name="recurrence_end_date" msgid="3693751578164711701">"<ns1:g id="DATE">%s</ns1:g> saakka"</string>
+    <string name="recurrence_end_date_label" msgid="4142791438636994952">"Tiettyyn päivään saakka"</string>
+    <string name="recurrence_month_pattern_by_day" msgid="4400107556121003459">"samana päiv. joka kk"</string>
+    <string name="save_label" msgid="2133599104834432589">"Valmis"</string>
+    <!-- From: file:/C:/Users/Stas/AndroidStudioProjects/Gym/app/build/exploded-aar/com.github.flavienlaurent.datetimepicker/library/0.0.1/res/values-fi/values.xml -->
+    <eat-comment />
+
+    <string name="select_day" msgid="3973338219107019769">"Valitse kuukausi ja päivä"</string>
+    <string name="select_hours" msgid="7651068754188418859">"Valitse tunnit"</string>
+    <string name="select_minutes" msgid="8327182090226828481">"Valitse minuutit"</string>
+    <string name="select_year" msgid="2603330600102539372">"Valitse vuosi"</string>
+    <string name="year_picker_description" msgid="6963340404644587098">"Vuosiluettelo"</string>
+
+</resources>

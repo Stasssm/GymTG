@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/C:/Users/Stas/AndroidStudioProjects/Gym/app/build/exploded-aar/com.github.flavienlaurent.datetimepicker/library/0.0.1/res/values-land/values.xml -->
+    <eat-comment />
+
+    <dimen name="dialog_height">200dip</dimen>
+    <dimen name="left_side_width">250dip</dimen>
+    <!-- From: file:/C:/Users/Stas/AndroidStudioProjects/Gym/app/build/exploded-aar/be.billington.calendar.recurrencepicker/library/1.1.0/res/values-land/dimens.xml -->
+    <eat-comment />
+
+    <dimen name="recurrence_picker_height">281dp</dimen>
+    <dimen name="recurrence_picker_width">500dp</dimen>
+    <!-- From: file:/C:/Users/Stas/AndroidStudioProjects/Gym/app/build/exploded-aar/com.github.flavienlaurent.datetimepicker/library/0.0.1/res/values-land/values.xml -->
+    <eat-comment />
+
+    <dimen name="selected_date_day_size">100dp</dimen>
+    <dimen name="selected_date_month_size">30dp</dimen>
+    <dimen name="selected_date_year_size">30dp</dimen>
+
+</resources>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/C:/Users/Stas/AndroidStudioProjects/Gym/app/src/main/res/values-xlarge/dimens.xml -->
+    <eat-comment />
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="button_left_margin">7dp</dimen>
+    <dimen name="text_button_size">40sp</dimen>
+    <!-- From: file:/C:/Users/Stas/AndroidStudioProjects/Gym/app/src/main/res/values-xlarge/integers.xml -->
+    <eat-comment />
+
+    <integer name="column_num">3</integer>
+    <!-- From: file:/C:/Users/Stas/AndroidStudioProjects/Gym/app/src/main/res/values-xlarge/styles.xml -->
+    <eat-comment />
+
+    <style name="Widget.ActionBar" parent="@android:style/Widget.Holo.Light.ActionBar.Solid.Inverse">
+        <item name="android:background">@drawable/ab_background</item>
+    </style>
+
+    <style name="Widget.ActionBar.Transparent">
+        <item name="android:background">@android:color/transparent</item>
+    </style>
+
+    <style name="muscle_button_style">
+        <item name="android:background">@null</item>
+        <item name="android:gravity">left|center_vertical</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:textSize">@dimen/text_button_size</item>
+    </style>
+
+    <style name="muscle_button_style_right">
+        <item name="android:background">@null</item>
+        <item name="android:gravity">right|center_vertical</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:textSize">@dimen/text_button_size</item>
+    </style>
+
+</resources>

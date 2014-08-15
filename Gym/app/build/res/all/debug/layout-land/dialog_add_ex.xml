@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="@dimen/recurrence_picker_width"
+    android:layout_height="@dimen/recurrence_picker_height"
+    android:background="@color/recurrence_picker_background"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#5558ccc6"
+        android:paddingLeft="12dip"
+        android:paddingTop="12dip"
+        android:paddingRight="12dip"
+        android:paddingBottom="4dip">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/add_title"
+            android:textSize="30dp"
+            android:textColor="#127094"
+            />
+    </LinearLayout>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/ex_name_edit_text"
+        android:hint="@string/ex_name"
+        />
+
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="12dip"
+        android:paddingTop="12dip"
+        android:paddingRight="12dip"
+        android:paddingBottom="4dip">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/ex_quant"
+            android:layout_marginLeft="@dimen/margin"
+
+            />
+
+        <EditText
+            android:layout_width="90dp"
+            android:layout_height="wrap_content"
+            android:inputType="number"
+            android:ems="10"
+            android:id="@+id/ex_quant" />
+
+        <Spinner
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/day_spinner"
+            android:layout_weight="1" />
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="12dip"
+        android:paddingTop="12dip"
+        android:paddingRight="12dip"
+        android:paddingBottom="4dip">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/ex_in_one_quant"
+            android:layout_marginLeft="@dimen/margin"
+            />
+
+        <EditText
+            android:layout_width="90dp"
+            android:layout_height="wrap_content"
+            android:inputType="number"
+            android:ems="10"
+            android:id="@+id/ex_in_one_quant" />
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:layout_marginTop="8dp"
+        android:background="?android:attr/listDivider"
+        tools:ignore="PxUsage" />
+
+    <LinearLayout
+        style="?android:attr/buttonBarStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+        <Button
+            android:id="@+id/btnYes"
+            style="?android:attr/buttonBarButtonStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textColor="@color/done_text_color"
+            android:text="@string/add">
+        </Button>
+
+        <Button
+            android:id="@+id/btnNo"
+            style="?android:attr/buttonBarButtonStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/done_text_color"
+            android:layout_weight="1"
+            android:text="@string/cancel">
+        </Button>
+
+
+    </LinearLayout>
+
+</LinearLayout><!-- From: file:/C:/Users/Stas/AndroidStudioProjects/Gym/app/src/main/res/layout-land/dialog_add_ex.xml -->

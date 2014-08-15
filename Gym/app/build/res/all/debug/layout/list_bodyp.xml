@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+	 >
+
+    <ImageView
+        android:id="@+id/bodyp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="?android:attr/selectableItemBackground"
+        android:divider="?android:attr/dividerHorizontal"
+        android:dividerPadding="5dp"
+        android:adjustViewBounds="true"
+        android:src="@drawable/back_xhdpi" />
+
+</LinearLayout>
+<!-- From: file:/C:/Users/Stas/AndroidStudioProjects/Gym/app/src/main/res/layout/list_bodyp.xml -->

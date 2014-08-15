@@ -1,0 +1,43 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".YouTubeAPIActivity" >
+
+    <customization.NotifyingScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+             >
+
+            <ImageView
+                android:id="@+id/imageView1"
+                android:layout_width="match_parent"
+                android:layout_height="?android:attr/actionBarSize"
+              	android:background="#000000"
+              	/>
+
+            <com.google.android.youtube.player.YouTubePlayerView
+                android:id="@+id/youtube_view"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#000000"
+                android:paddingTop="42dp" />
+
+            <WebView
+                android:id="@+id/exinfo_webView"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="14dp" />
+        </LinearLayout>
+
+    </customization.NotifyingScrollView>
+
+
+
+</RelativeLayout><!-- From: file:/C:/Users/Stas/AndroidStudioProjects/Gym/app/src/main/res/layout/activity_you_tube_api.xml -->

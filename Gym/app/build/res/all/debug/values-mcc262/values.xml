@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/C:/Users/Stas/AndroidStudioProjects/Gym/app/build/exploded-aar/be.billington.calendar.recurrencepicker/library/1.1.0/res/values-mcc262/strings.xml -->
+    <eat-comment />
+
+    <string name="google_email_domain">googlemail.com</string>
+
+</resources>

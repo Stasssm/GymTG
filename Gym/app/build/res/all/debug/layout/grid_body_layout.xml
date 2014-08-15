@@ -1,0 +1,22 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".GridBodyActivity" >
+
+    <GridView
+        android:id="@+id/gridView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="1dp"
+        android:columnWidth="80dp"
+        android:gravity="center"
+        android:horizontalSpacing="2dip"
+        android:verticalSpacing="2dip"
+        android:listSelector="@android:color/holo_blue_bright"
+        android:numColumns="@integer/column_num"
+        android:stretchMode="columnWidth"
+		 >
+    </GridView>
+
+</RelativeLayout><!-- From: file:/C:/Users/Stas/AndroidStudioProjects/Gym/app/src/main/res/layout/grid_body_layout.xml -->

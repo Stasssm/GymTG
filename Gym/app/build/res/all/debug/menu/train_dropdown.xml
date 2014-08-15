@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:icon="@drawable/ic_action_core_overflow"
+        android:showAsAction="ifRoom"
+        android:id="@+id/train_help"
+        android:title="@string/additional_help">
+        <menu>
+            <item
+                android:id="@+id/dellete_all"
+                android:title="@string/delete_all"
+                />
+        </menu>
+    </item>
+
+</menu><!-- From: file:/C:/Users/Stas/AndroidStudioProjects/Gym/app/src/main/res/menu/train_dropdown.xml -->

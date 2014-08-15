@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#99ffffff">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textColor="#0692bd"
+        android:textStyle="bold"
+        android:text="Small Text"
+        android:id="@+id/header_text" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#0692bd"
+        android:id="@+id/imageView" />
+</LinearLayout><!-- From: file:/C:/Users/Stas/AndroidStudioProjects/Gym/app/src/main/res/layout/sticky_header.xml -->

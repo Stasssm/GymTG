@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets" >
+            <file
+                name="html/abs/abs1.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\abs\abs1.html" />
+            <file
+                name="html/abs/abs2.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\abs\abs2.html" />
+            <file
+                name="html/abs/abs3.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\abs\abs3.html" />
+            <file
+                name="html/abs/abs4.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\abs\abs4.html" />
+            <file
+                name="html/abs/abs5.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\abs\abs5.html" />
+            <file
+                name="html/abs/abs6.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\abs\abs6.html" />
+            <file
+                name="html/abs/abs7.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\abs\abs7.html" />
+            <file
+                name="html/abs/abs8.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\abs\abs8.html" />
+            <file
+                name="html/abs/abs9.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\abs\abs9.html" />
+            <file
+                name="html/bic/bic1.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\bic\bic1.html" />
+            <file
+                name="html/bic/bic10.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\bic\bic10.html" />
+            <file
+                name="html/bic/bic11.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\bic\bic11.html" />
+            <file
+                name="html/bic/bic12.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\bic\bic12.html" />
+            <file
+                name="html/bic/bic2.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\bic\bic2.html" />
+            <file
+                name="html/bic/bic3.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\bic\bic3.html" />
+            <file
+                name="html/bic/bic4.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\bic\bic4.html" />
+            <file
+                name="html/bic/bic5.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\bic\bic5.html" />
+            <file
+                name="html/bic/bic6.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\bic\bic6.html" />
+            <file
+                name="html/bic/bic7.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\bic\bic7.html" />
+            <file
+                name="html/bic/bic8.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\bic\bic8.html" />
+            <file
+                name="html/bic/bic9.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\bic\bic9.html" />
+            <file
+                name="html/bp/back.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\bp\back.html" />
+            <file
+                name="html/bp/biceps.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\bp\biceps.html" />
+            <file
+                name="html/bp/calve.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\bp\calve.html" />
+            <file
+                name="html/bp/chest.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\bp\chest.html" />
+            <file
+                name="html/bp/legs.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\bp\legs.html" />
+            <file
+                name="html/bp/shoulders.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\bp\shoulders.html" />
+            <file
+                name="html/bp/triceps.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\bp\triceps.html" />
+            <file
+                name="html/bp/vol.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\bp\vol.html" />
+            <file
+                name="html/chest/ch1.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\chest\ch1.html" />
+            <file
+                name="html/chest/ch10.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\chest\ch10.html" />
+            <file
+                name="html/chest/ch11.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\chest\ch11.html" />
+            <file
+                name="html/chest/ch12.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\chest\ch12.html" />
+            <file
+                name="html/chest/ch13.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\chest\ch13.html" />
+            <file
+                name="html/chest/ch14.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\chest\ch14.html" />
+            <file
+                name="html/chest/ch15.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\chest\ch15.html" />
+            <file
+                name="html/chest/ch16.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\chest\ch16.html" />
+            <file
+                name="html/chest/ch2.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\chest\ch2.html" />
+            <file
+                name="html/chest/ch3.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\chest\ch3.html" />
+            <file
+                name="html/chest/ch4.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\chest\ch4.html" />
+            <file
+                name="html/chest/ch5.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\chest\ch5.html" />
+            <file
+                name="html/chest/ch6.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\chest\ch6.html" />
+            <file
+                name="html/chest/ch7.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\chest\ch7.html" />
+            <file
+                name="html/chest/ch8.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\chest\ch8.html" />
+            <file
+                name="html/chest/ch9.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\chest\ch9.html" />
+            <file
+                name="html/cl/cl1.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\cl\cl1.html" />
+            <file
+                name="html/cl/cl2.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\cl\cl2.html" />
+            <file
+                name="html/cl/cl3.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\cl\cl3.html" />
+            <file
+                name="html/cl/cl4.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\cl\cl4.html" />
+            <file
+                name="html/cl/cl5.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\cl\cl5.html" />
+            <file
+                name="html/forearms/fa1.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\forearms\fa1.html" />
+            <file
+                name="html/forearms/fa2.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\forearms\fa2.html" />
+            <file
+                name="html/forearms/fa3.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\forearms\fa3.html" />
+            <file
+                name="html/forearms/fa4.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\forearms\fa4.html" />
+            <file
+                name="html/forearms/fa5.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\forearms\fa5.html" />
+            <file
+                name="html/gl/gl1.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\gl\gl1.html" />
+            <file
+                name="html/gl/gl2.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\gl\gl2.html" />
+            <file
+                name="html/gl/gl3.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\gl\gl3.html" />
+            <file
+                name="html/gl/gl4.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\gl\gl4.html" />
+            <file
+                name="html/hm/hm1.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\hm\hm1.html" />
+            <file
+                name="html/hm/hm2.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\hm\hm2.html" />
+            <file
+                name="html/hm/hm3.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\hm\hm3.html" />
+            <file
+                name="html/hm/hm4.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\hm\hm4.html" />
+            <file
+                name="html/lats/lt1.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\lats\lt1.html" />
+            <file
+                name="html/lats/lt10.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\lats\lt10.html" />
+            <file
+                name="html/lats/lt11.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\lats\lt11.html" />
+            <file
+                name="html/lats/lt12.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\lats\lt12.html" />
+            <file
+                name="html/lats/lt13.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\lats\lt13.html" />
+            <file
+                name="html/lats/lt14.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\lats\lt14.html" />
+            <file
+                name="html/lats/lt2.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\lats\lt2.html" />
+            <file
+                name="html/lats/lt3.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\lats\lt3.html" />
+            <file
+                name="html/lats/lt4.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\lats\lt4.html" />
+            <file
+                name="html/lats/lt5.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\lats\lt5.html" />
+            <file
+                name="html/lats/lt6.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\lats\lt6.html" />
+            <file
+                name="html/lats/lt7.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\lats\lt7.html" />
+            <file
+                name="html/lats/lt8.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\lats\lt8.html" />
+            <file
+                name="html/lats/lt9.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\lats\lt9.html" />
+            <file
+                name="html/lw/lw1.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\lw\lw1.html" />
+            <file
+                name="html/lw/lw2.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\lw\lw2.html" />
+            <file
+                name="html/lw/lw3.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\lw\lw3.html" />
+            <file
+                name="html/neck/nck1.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\neck\nck1.html" />
+            <file
+                name="html/neck/nck2.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\neck\nck2.html" />
+            <file
+                name="html/neck/nck3.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\neck\nck3.html" />
+            <file
+                name="html/quads/qa1.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\quads\qa1.html" />
+            <file
+                name="html/quads/qa10.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\quads\qa10.html" />
+            <file
+                name="html/quads/qa11.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\quads\qa11.html" />
+            <file
+                name="html/quads/qa12.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\quads\qa12.html" />
+            <file
+                name="html/quads/qa13.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\quads\qa13.html" />
+            <file
+                name="html/quads/qa2.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\quads\qa2.html" />
+            <file
+                name="html/quads/qa3.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\quads\qa3.html" />
+            <file
+                name="html/quads/qa4.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\quads\qa4.html" />
+            <file
+                name="html/quads/qa5.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\quads\qa5.html" />
+            <file
+                name="html/quads/qa6.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\quads\qa6.html" />
+            <file
+                name="html/quads/qa7.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\quads\qa7.html" />
+            <file
+                name="html/quads/qa8.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\quads\qa8.html" />
+            <file
+                name="html/quads/qa9.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\quads\qa9.html" />
+            <file
+                name="html/shoulders/sh1.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\shoulders\sh1.html" />
+            <file
+                name="html/shoulders/sh10.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\shoulders\sh10.html" />
+            <file
+                name="html/shoulders/sh2.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\shoulders\sh2.html" />
+            <file
+                name="html/shoulders/sh3.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\shoulders\sh3.html" />
+            <file
+                name="html/shoulders/sh4.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\shoulders\sh4.html" />
+            <file
+                name="html/shoulders/sh5.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\shoulders\sh5.html" />
+            <file
+                name="html/shoulders/sh6.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\shoulders\sh6.html" />
+            <file
+                name="html/shoulders/sh7.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\shoulders\sh7.html" />
+            <file
+                name="html/shoulders/sh8.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\shoulders\sh8.html" />
+            <file
+                name="html/shoulders/sh9.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\shoulders\sh9.html" />
+            <file
+                name="html/traps/trp1.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\traps\trp1.html" />
+            <file
+                name="html/traps/trp2.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\traps\trp2.html" />
+            <file
+                name="html/traps/trp3.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\traps\trp3.html" />
+            <file
+                name="html/traps/trp4.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\traps\trp4.html" />
+            <file
+                name="html/traps/trp5.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\traps\trp5.html" />
+            <file
+                name="html/triceps/tr1.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\triceps\tr1.html" />
+            <file
+                name="html/triceps/tr10.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\triceps\tr10.html" />
+            <file
+                name="html/triceps/tr11.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\triceps\tr11.html" />
+            <file
+                name="html/triceps/tr12.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\triceps\tr12.html" />
+            <file
+                name="html/triceps/tr13.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\triceps\tr13.html" />
+            <file
+                name="html/triceps/tr2.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\triceps\tr2.html" />
+            <file
+                name="html/triceps/tr3.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\triceps\tr3.html" />
+            <file
+                name="html/triceps/tr4.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\triceps\tr4.html" />
+            <file
+                name="html/triceps/tr5.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\triceps\tr5.html" />
+            <file
+                name="html/triceps/tr6.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\triceps\tr6.html" />
+            <file
+                name="html/triceps/tr7.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\triceps\tr7.html" />
+            <file
+                name="html/triceps/tr8.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\triceps\tr8.html" />
+            <file
+                name="html/triceps/tr9.html"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\html\triceps\tr9.html" />
+            <file
+                name="style/table.css"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\assets\style\table.css" />
+        </source>
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\debug\assets" />
+    </dataSet>
+
+</merger>
